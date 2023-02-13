@@ -310,4 +310,3 @@
 
 /obj/item/clothing/under/misc/gear_harness
 	body_parts_covered = NONE
-

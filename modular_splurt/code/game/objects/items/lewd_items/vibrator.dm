@@ -137,8 +137,6 @@ Code:
 					if(prob(50))
 						U.emote("moan")
 
-
-
 	playsound(src, 'modular_splurt/sound/lewd/vibrate.ogg', 40, 1, -1)
 	if(style == "long") //haha vibrator go brrrrrrr
 		icon_state = "vibing"

@@ -12,7 +12,7 @@
 	desc = "A tattered old jumpsuit that will provide absolutely no benefit to you. It fills the wearer with a strange compulsion to blurt out 'glorf'."
 	item = /obj/item/clothing/under/color/grey/glorf
 	cost = 20
-	restricted_roles = list("Assistant")
+	restricted_roles = list("Assistant", "Stowaway")
 
 /datum/uplink_item/role_restricted/pie_cannon
 	name = "Banana Cream Pie Cannon"
